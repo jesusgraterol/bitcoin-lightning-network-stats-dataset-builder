@@ -4,9 +4,7 @@ The dataset builder script extracts Bitcoin's Lightnining Network statistics thr
 
 The dataset file (updated quarterly) is hosted in Kaggle and can be downloaded from the following URL:
 
-[https://www.kaggle.com/datasets/jesusgraterol/bitcoin-lightning-network-stats-dataset](https://www.kaggle.com/datasets/jesusgraterol/bitcoin-lightning-network-stats-dataset)
-
-
+[Dataset File](https://www.kaggle.com/datasets/jesusgraterol/bitcoin-lightning-network-stats-dataset) | [Dataset Notebook](https://www.kaggle.com/code/jesusgraterol/bitcoin-lightning-network-stats-ds)
 
 #
 ## Requirements
@@ -88,4 +86,4 @@ If you're going to use this dataset to train machine learning models, take into 
 
 Since the dataset file is deeply analyzed in Jupyter|Kaggle Notebooks, no unit tests were written. If you wish to see more details regarding this dataset, please visit:
 
-[https://www.kaggle.com/datasets/jesusgraterol/bitcoin-lightning-network-stats-dataset](https://www.kaggle.com/datasets/jesusgraterol/bitcoin-lightning-network-stats-dataset)
+[Dataset File](https://www.kaggle.com/datasets/jesusgraterol/bitcoin-lightning-network-stats-dataset) | [Dataset Notebook](https://www.kaggle.com/code/jesusgraterol/bitcoin-lightning-network-stats-ds)
